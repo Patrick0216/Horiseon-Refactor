@@ -35,3 +35,5 @@ THEN I find a concise, descriptive title
 - link to github repository: https://github.com/Patrick0216/Horiseon-Refactor
 
 - link to pages: https://patrick0216.github.io/Horiseon-Refactor/
+
+- image of site (./assets/images/image.PNG)
