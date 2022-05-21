@@ -4,7 +4,7 @@ Goal: make the webpage better suitable to people with dissabilitys and fix some 
 
 ## Challenge description
 
-the goal for this project was to make this webpage more accesible to users with dissabilitys and to make it woke better with the tools they use to navigate the web
+the goal for this project was to make this webpage more accesible to users with dissabilitys and to make it work better with the tools they use to navigate the web
 
 ## User Story
 
